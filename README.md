@@ -1,7 +1,7 @@
 <div align="center">
 <h1 style="border-bottom: none">
     <b><a href="https://openblocks.dev/">Openblocks</a></b><br />
-    The Open Source Retool Alternative
+    The Open Source Retool Alternative（低代码平台）
 </h1>
 <p>
     Build internal tools fast, with no limitations
